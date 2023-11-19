@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy for Mapine</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 0.8em;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy for Mapine</h1>
+
+    <p><em>Last Updated: 19 November 2023</em></p>
+
+    <h2>1. Data Collection and Storage:</h2>
+    <p>Mapine allows users to manually save favorite locations on the map. This includes GPS information, an emoji, a name, and a description. All data is stored locally on the user's device, and [Company Name] does not collect or retain any user data since we do not have any servers or networking involved.</p>
+
+    <h2>2. Data Usage:</h2>
+    <p>The collected data solely serves the purpose of displaying favorites on the map within the app. No user data is used for any other purposes.</p>
+
+    <h2>3. Third-Party Involvement:</h2>
+    <p>Mapine does not utilize any third-party frameworks, analytics tools, or external services. The app operates independently on the user's device.</p>
+
+    <h2>4. Data Security:</h2>
+    <p>Mapine does not implement encryption or authentication measures as all data is stored locally on the user's device. Users have the option to manually export or import data to/from a file.</p>
+
+    <h2>5. Data Sharing:</h2>
+    <p>Currently, users cannot share data directly. However, future updates may include a feature allowing users to share lists of favorites with friends, and this functionality will be managed through Apple iCloud.</p>
+
+    <h2>6. Collection of Additional Data:</h2>
+    <p>Mapine does not collect data about the places users add to their favorites.</p>
+
+    <h2>7. Privacy Policy Updates:</h2>
+    <p>Updates to this Privacy Policy will be reflected in the content of this page. Users are encouraged to check the Privacy Policy regularly for any changes.</p>
+
+    <h2>Contact Information:</h2>
+    <p>For any questions or concerns regarding this Privacy Policy, please contact <a href="mailto:mapine@proton.me">mapine@proton.me</a>.</p>
+
+    <footer>
+        <p>By using Mapine, you agree to the terms outlined in this Privacy Policy.</p>
+    </footer>
+
+</body>
+</html>
